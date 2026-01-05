@@ -11,7 +11,6 @@
     <ProjectReference Include="..\LibreWorlds.WorldAdapter\src\LibreWorlds.WorldAdapter.csproj" />
     <ProjectReference Include="..\LibreWorlds.WorldQueue\LibreWorlds.WorldQueue.csproj" />
     <ProjectReference Include="..\LibreWorlds.WorldRuntime\LibreWorlds.WorldRuntime.csproj" />
-    <ProjectReference Include="..\LibreWorlds.Sdk\LibreWorlds.Sdk.Core\LibreWorlds.Sdk.Core.csproj" />
   </ItemGroup>
 
 </Project>
